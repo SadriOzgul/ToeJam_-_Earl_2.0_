@@ -1,0 +1,291 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin __IdleToeJam.xnb
+/copy:__IdleToeJam.xnb
+
+#begin _Earl_Sneaking_Backward.xnb
+/copy:_Earl_Sneaking_Backward.xnb
+
+#begin _Earl_Sneaking_Forward.xnb
+/copy:_Earl_Sneaking_Forward.xnb
+
+#begin _Earl_Sneaking_Left.xnb
+/copy:_Earl_Sneaking_Left.xnb
+
+#begin _Earl_Sneaking_Right.xnb
+/copy:_Earl_Sneaking_Right.xnb
+
+#begin _IdleToeJam.png
+/copy:_IdleToeJam.png
+
+#begin ../../../../Downloads/Earl_Bar.xnb
+/copy:../../../../Downloads/Earl_Bar.xnb;Earl_Bar.xnb
+
+#begin ../../../../Downloads/result (4)/weiner.xnb
+/copy:../../../../Downloads/result (4)/weiner.xnb;weiner.xnb
+
+#begin ../../../../OneDrive/Desktop/SampleElevator.xnb
+/copy:../../../../OneDrive/Desktop/SampleElevator.xnb;SampleElevator.xnb
+
+#begin ../../../../OneDrive/Desktop/SampleInterface.xnb
+/copy:../../../../OneDrive/Desktop/SampleInterface.xnb;SampleInterface.xnb
+
+#begin ../../../../OneDrive/Desktop/SampleSanta.xnb
+/copy:../../../../OneDrive/Desktop/SampleSanta.xnb;SampleSanta.xnb
+
+#begin ../../../../OneDrive/Desktop/WoodenTile.xnb
+/copy:../../../../OneDrive/Desktop/WoodenTile.xnb;WoodenTile.xnb
+
+#begin AngryBees.xnb
+/copy:AngryBees.xnb
+
+#begin asset/Paused.xnb
+/copy:asset/Paused.xnb
+
+#begin asset/Sprite_.png
+/copy:asset/Sprite_.png
+
+#begin asset/Sprite_.xnb
+/copy:asset/Sprite_.xnb
+
+#begin BackDemon.xnb
+/copy:BackDemon.xnb
+
+#begin BackwardBees.xnb
+/copy:BackwardBees.xnb
+
+#begin BlackSquare.png
+/copy:BlackSquare.png
+
+#begin BlackSquare.xnb
+/copy:BlackSquare.xnb
+
+#begin Burp.wav
+/copy:Burp.wav
+
+#begin Cake.xnb
+/copy:Cake.xnb
+
+#begin Circle.png
+/copy:Circle.png
+
+#begin Dude.xnb
+/copy:Dude.xnb
+
+#begin Dufus.xnb
+/copy:Dufus.xnb
+
+#begin Earl__Left.xnb
+/copy:Earl__Left.xnb
+
+#begin Earl__Right.xnb
+/copy:Earl__Right.xnb
+
+#begin Earl_Backwards.xnb
+/copy:Earl_Backwards.xnb
+
+#begin Earl_Bar.xnb
+/copy:Earl_Bar.xnb
+
+#begin Earl_Evevator.xnb
+/copy:Earl_Evevator.xnb
+
+#begin Earl_Forward.xnb
+/copy:Earl_Forward.xnb
+
+#begin Earl_HUD.xnb
+/copy:Earl_HUD.xnb
+
+#begin Earl_Left.xnb
+/copy:Earl_Left.xnb
+
+#begin Earl_Moving_Forward.xnb
+/copy:Earl_Moving_Forward.xnb
+
+#begin Earl_Right.xnb
+/copy:Earl_Right.xnb
+
+#begin Earl_RocketSkatesBack.xnb
+/copy:Earl_RocketSkatesBack.xnb
+
+#begin Earl_RocketSkatesFront.xnb
+/copy:Earl_RocketSkatesFront.xnb
+
+#begin Earl_RocketSkatesLeft.xnb
+/copy:Earl_RocketSkatesLeft.xnb
+
+#begin Earl_RocketSkatesRight.xnb
+/copy:Earl_RocketSkatesRight.xnb
+
+#begin Earl_Walking_to_the_left.xnb
+/copy:Earl_Walking_to_the_left.xnb
+
+#begin Earl_Walking_to_the_right.xnb
+/copy:Earl_Walking_to_the_right.xnb
+
+#begin Elevator.xnb
+/copy:Elevator.xnb
+
+#begin ElevatorCutscene.xnb
+/copy:ElevatorCutscene.xnb
+
+#begin Exiting_Evevator.xnb
+/copy:Exiting_Evevator.xnb
+
+#begin floor_path_tiles.xnb
+/copy:floor_path_tiles.xnb
+
+#begin ForwardBees.xnb
+/copy:ForwardBees.xnb
+
+#begin FrontDemon.xnb
+/copy:FrontDemon.xnb
+
+#begin Ghost_Earl.xnb
+/copy:Ghost_Earl.xnb
+
+#begin Going_Up_Evevator.xnb
+/copy:Going_Up_Evevator.xnb
+
+#begin HUD_Display.xnb
+/copy:HUD_Display.xnb
+
+#begin Idle_Earl.xnb
+/copy:Idle_Earl.xnb
+
+#begin Idle_Elevator.xnb
+/copy:Idle_Elevator.xnb
+
+#begin IdleBees.xnb
+/copy:IdleBees.xnb
+
+#begin IdleDemon.xnb
+/copy:IdleDemon.xnb
+
+#begin IdleDemonThree.xnb
+/copy:IdleDemonThree.xnb
+
+#begin IdleDemonTwo.xnb
+/copy:IdleDemonTwo.xnb
+
+#begin Inside_Evevator.xnb
+/copy:Inside_Evevator.xnb
+
+#begin JetPackPresent_.png
+/copy:JetPackPresent_.png
+
+#begin JetPackPresent.xnb
+/copy:JetPackPresent.xnb
+
+#begin LeftBees.xnb
+/copy:LeftBees.xnb
+
+#begin LeftDemon.xnb
+/copy:LeftDemon.xnb
+
+#begin Level_One.jpeg
+/copy:Level_One.jpeg
+
+#begin Level_Two.jpeg
+/copy:Level_Two.jpeg
+
+#begin Meep.wav
+/copy:Meep.wav
+
+#begin Menu-Closed.xnb
+/copy:Menu-Closed.xnb
+
+#begin Menu-Opened.xnb
+/copy:Menu-Opened.xnb
+
+#begin One.xnb
+/copy:One.xnb
+
+#begin Opened_Elevator.xnb
+/copy:Opened_Elevator.xnb
+
+#begin Paused.xnb
+/copy:Paused.xnb
+
+#begin Peanut.xnb
+/copy:Peanut.xnb
+
+#begin PointDexter.xnb
+/copy:PointDexter.xnb
+
+#begin PresentTwo.xnb
+/copy:PresentTwo.xnb
+
+#begin Rap!.wav
+/copy:Rap!.wav
+
+#begin RightBees.xnb
+/copy:RightBees.xnb
+
+#begin RightDemon.xnb
+/copy:RightDemon.xnb
+
+#begin SampleBoomBox.xnb
+/copy:SampleBoomBox.xnb
+
+#begin SantaClaus.xnb
+/copy:SantaClaus.xnb
+
+#begin Sprite_.xnb
+/copy:Sprite_.xnb
+
+#begin ThemeSong.wav
+/copy:ThemeSong.wav
+
+#begin ToeJam_Left.xnb
+/copy:ToeJam_Left.xnb
+
+#begin ToeJamBack.xnb
+/copy:ToeJamBack.xnb
+
+#begin ToeJamForward.xnb
+/copy:ToeJamForward.xnb
+
+#begin ToeJamLeft.xnb
+/copy:ToeJamLeft.xnb
+
+#begin ToeJamRight.xnb
+/copy:ToeJamRight.xnb
+
+#begin two.xnb
+/copy:two.xnb
+
+#begin Weiner.xnb
+/copy:Weiner.xnb
+
+#begin World_Numbers.xnb
+/copy:World_Numbers.xnb
+
+#begin Yeouch.wav
+/copy:Yeouch.wav
+
+#begin Youch_Back_Earl.xnb
+/copy:Youch_Back_Earl.xnb
+
+#begin Youch_Front_Earl.xnb
+/copy:Youch_Front_Earl.xnb
+
+#begin Youch_Left_Earl.xnb
+/copy:Youch_Left_Earl.xnb
+
+#begin Youch_Right_Earl.xnb
+/copy:Youch_Right_Earl.xnb
+
